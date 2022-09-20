@@ -23,6 +23,6 @@ Genuinely passionate about technology, my motivation is to find ways of creating
 
 + 🏢 Software engineer intern at Arm in the GPU Compute team 
 
-+ 🌱 Currently building a stsrtup called Unilinkr to change the work culture for students in Portugal -> https://www.unilinkr.net/ 
++ 🌱 Currently building a startup called Unilinkr to change the work culture for students in Portugal -> https://www.unilinkr.net/ 
 
 + 📫 How to reach me: Tomás Zilhão Borges on Linkedin and tomaspzpeborges on Twitter 

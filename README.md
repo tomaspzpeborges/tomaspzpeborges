@@ -21,7 +21,7 @@ Genuinely passionate about technology, my motivation is to find ways of creating
 
 + 💻 MEng Computer Science at Uni of Leeds 
 
-+ 🏢 Software engineer intern at Arm in the GPU Compute team 
++ 🏢 Software engineer intern at Arm in the GPU Compute Engineering team 
 
 + 🌱 Currently building a startup called Unilinkr to change the work culture for students in Portugal -> https://www.unilinkr.net/ 
 

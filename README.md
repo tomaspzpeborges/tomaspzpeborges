@@ -19,7 +19,7 @@ Genuinely passionate about technology, my motivation is to find ways of creating
 
 + 🇬🇧 Leeds, UK and 🇵🇹 Porto, Portugal
 
-+ 💻 MEng Computer Science at Uni of Leeds 
++ 💻 MEng. BSc Computer Science at Uni of Leeds 
 
 + 🏢 Software engineer intern at Arm in the GPU Compute Engineering team 
 

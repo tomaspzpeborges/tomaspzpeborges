@@ -19,7 +19,7 @@ Genuinely passionate about technology, my motivation is to find ways of creating
 
 + 🇬🇧 London, UK and 🇵🇹 Porto, Portugal
   
-+ 🏢 Software Engineer at Arm in the GPU Compute Engineering team 
++ 🤖 Software Engineer at Arm in the GPU Compute Engineering team 
 
 + 🌱 Currently building a startup called Unilinkr to change the work culture for students in Portugal -> https://www.unilinkr.net/ 
 

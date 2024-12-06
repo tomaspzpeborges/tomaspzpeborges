@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Genuinely passionate about technology, my motivation is to find ways of creating real impact through the ubiquity of tech on our daily lives. Always up to date with the latest on technology and current affairs, I frequently find myself interested in new ways of combining these two. I have an immense appreciation for startups and everything they represent: the sense of ownership, the questioning of the status quo, the act of creation.
 
-+ 🇬🇧 London, UK and 🇵🇹 Porto, Portugal
++ 🇬🇧 London, UK
   
 + 🤖 Software Engineer at Arm in the GPU Compute Engineering team 
 

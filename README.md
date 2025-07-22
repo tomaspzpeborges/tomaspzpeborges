@@ -1,4 +1,4 @@
-### Hi there! I'm Tomás 
+### !
 
 + Roots in Porto, Portugal 🇵🇹. Based in London, UK 🇬🇧.
   

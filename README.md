@@ -1,6 +1,3 @@
-### !
-
-+ Roots in Porto, Portugal 🇵🇹. Based in London, UK 🇬🇧.
   
 + 🤖 Engineering at Arm.
 
